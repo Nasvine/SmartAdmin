@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "29580934456",
+    "project_id": "smartservices-aacff",
+    "storage_bucket": "smartservices-aacff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29580934456:android:49d8b830a5bf26c10c55cd",
+        "android_client_info": {
+          "package_name": "com.smart_admin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29580934456-h0u6i2vdgcrl0liiksfjigrdr7g902s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart_admin.app",
+            "certificate_hash": "e65a06b1cb204f669a2dc22fcfa6c6bf2f0285a5"
+          }
+        },
+        {
+          "client_id": "29580934456-hghghejtho5aufum3bgl42ldgeeh7lo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart_admin.app",
+            "certificate_hash": "6e8fd6393760849ce406dd4481adb1e261c75c19"
+          }
+        },
+        {
+          "client_id": "29580934456-curf5lhq52mokphicas040kiu9dk9elf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4TkGRfJVWm79LZaooUhkEmk6KxuWtmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29580934456-curf5lhq52mokphicas040kiu9dk9elf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29580934456-94ehqsm977mjudlsfk87ljish79h30hm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartDeliver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29580934456:android:7602401432b9547b0c55cd",
+        "android_client_info": {
+          "package_name": "com.smart_deliver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29580934456-5uh2h2ltd0afd778k6cfivp4koqlk4v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart_deliver.app",
+            "certificate_hash": "8ffd17b5c1c828a4dbc710c98c479c6e292c48b5"
+          }
+        },
+        {
+          "client_id": "29580934456-v6rlkf32tdsprk3hc81fkt54kfvrgq80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart_deliver.app",
+            "certificate_hash": "e65a06b1cb204f669a2dc22fcfa6c6bf2f0285a5"
+          }
+        },
+        {
+          "client_id": "29580934456-curf5lhq52mokphicas040kiu9dk9elf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4TkGRfJVWm79LZaooUhkEmk6KxuWtmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29580934456-curf5lhq52mokphicas040kiu9dk9elf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29580934456-94ehqsm977mjudlsfk87ljish79h30hm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartDeliver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29580934456:android:0cbaed2449cc17140c55cd",
+        "android_client_info": {
+          "package_name": "com.smart_service.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29580934456-1m3hd1lluohb8j9mp3d726vs94ihr85v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart_service.app",
+            "certificate_hash": "e65a06b1cb204f669a2dc22fcfa6c6bf2f0285a5"
+          }
+        },
+        {
+          "client_id": "29580934456-p3oll2akcst3hao1kebees5ul3sg9ss0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smart_service.app",
+            "certificate_hash": "2cbc1afb65f67418f9d42301df616b1b01866edf"
+          }
+        },
+        {
+          "client_id": "29580934456-curf5lhq52mokphicas040kiu9dk9elf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4TkGRfJVWm79LZaooUhkEmk6KxuWtmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29580934456-curf5lhq52mokphicas040kiu9dk9elf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29580934456-94ehqsm977mjudlsfk87ljish79h30hm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartDeliver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
